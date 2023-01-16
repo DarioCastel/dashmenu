@@ -15,7 +15,7 @@ function App() {
               </a>
             </div>
           </div>
-          <div className="titulo">Nombre empresa</div>
+          <div className="titulo">Demon Hunter</div>
         </div>
 
         <div className="element">
